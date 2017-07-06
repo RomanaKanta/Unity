@@ -1,0 +1,8 @@
+KIN　ID	分類１	分類２	分類３	分類４	よみ	英語名称	英語よみ　カタカナ	起始	停止	支配神経	作用		支配神経画像	作用動画																																												
+K10000	頭部					HEAD																																																																																																	
+K10340	頚部					NECK																																																																																															
+K10600	胸部					THORAX																																																																																																			
+K10740	腹部					ABDOMEN																																																																																																	
+K10840	背部					BACK																																																																																																			
+K11390	上肢					UPPER LIMB																																																																																																
+K11920	下肢					LOWER LIMB																																																				
